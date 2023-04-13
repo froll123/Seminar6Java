@@ -147,4 +147,3 @@ public static ArrayList<Laptop> getLaptopList() {
     return al;
 }
 }
-
